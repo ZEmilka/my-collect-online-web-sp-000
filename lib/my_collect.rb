@@ -1,2 +1,2 @@
-def collect()
+def collect(collection)
 end
